@@ -1,1 +1,2 @@
-# ReactVR360
+# HackVR
+Vodafone UK hackathon
